@@ -1,0 +1,19 @@
+p{
+  font-size: 20px;
+  
+}
+img{
+  float: right;
+  width: 100px;
+ 
+}
+h2~p{
+  border-left: solid red 5px;
+}
+.top{
+  font-size:20px;
+  color:red;
+}
+li{
+  font-size:20px;
+}
